@@ -80,7 +80,7 @@ footer .footer-contenair a:hover {
     }
     main .redaction-contenair {
         width: 85%;
-        padding: 20px;
+        padding: 20px 15px;
     }
     main footer {
         padding: 20px;
@@ -88,7 +88,7 @@ footer .footer-contenair a:hover {
 }
 
 
-/* --===================* Petit eçran *===============-- */
+/* --===================* Petit ecran *===============-- */
 
 @media screen and (max-width: 230px) {
     main .banniere h1 {
@@ -101,7 +101,7 @@ footer .footer-contenair a:hover {
         width: 85%;
         padding: 10px;
     }
-    /* main .redaction-contenair ul {
-        padding: 5px;
-    } */
+    main .redaction-contenair ul {
+        font-size: 1em;
+    }
 }
