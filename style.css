@@ -37,7 +37,12 @@ main .redaction-contenair {
 
 main .redaction-contenair ul {
     list-style-type: none;
+    line-height: 25px;
     padding: 5px;
+}
+
+main .redaction-contenair p {
+    line-height: 30px;
 }
 
 main .redaction-contenair .regles {
